@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gdma2004
+- 👀 I’m interested in Linux and Python
+- 🌱 I’m currently learning Shell and Python3
