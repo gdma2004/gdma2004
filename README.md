@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @gdma2004
+- 👋 Hi, I’m Gabriel Dantas
 - 👀 I’m interested in Linux and Python
 - 🌱 I’m currently learning Shell and Python3
