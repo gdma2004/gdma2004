@@ -18,7 +18,6 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrieldma2004@gmai.com" /></a>
-
+  <a href="#" alt="Telegram">
+  <img src="https://user-images.githubusercontent.com/56522308/68100098-eb615300-fe7a-11e9-8cc8-735f59a06905.png?&logoColor=white&link=https://t.me/gdma2004" min-width="50px" max-width="50px" width="50px" align="left" /></a>
 </p>  
